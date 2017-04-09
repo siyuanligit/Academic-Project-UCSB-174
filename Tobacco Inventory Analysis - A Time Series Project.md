@@ -45,15 +45,15 @@ These findings suggests:
 ##### 2.2 Data Transformation
 
 Based on the finding from the previous part, I was able to do some calculations.
-First, I chose to calculate the power coefficient (![lambda]<http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0>) for power transformation. This process was done in the R programming interface.
+First, I chose to calculate the power coefficient (![lambda](http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0)) for power transformation. This process was done in the R programming interface.
 
 ![]()
 
-This gave a graph of the log-Likelihood function respect to power coefficient ![lambda]<http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0>:
+This gave a graph of the log-Likelihood function respect to power coefficient ![lambda](http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0):
 
 ![]()
 
-Using the following code, I obtained the preferred power coefficient ![lambda]<http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0>:
+Using the following code, I obtained the preferred power coefficient ![lambda](http://www.sciweavers.org/tex2img.php?eq=%20%5Clambda%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0):
 
 ![]()
 

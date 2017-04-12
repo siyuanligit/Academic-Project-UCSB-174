@@ -1,6 +1,6 @@
 # Academic-Project-UCSB-174
 
-Academic Project for PSTAT 174 Time Series, UCSB
+Academic Project for PSTAT 174 Time Series, UCSB - Undergraduate
 
 This is a work in progress. I am writing the original word document in Markdown.
 
